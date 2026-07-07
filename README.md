@@ -26,10 +26,9 @@
 </p>
 
 ---
-
+###  Activity Graph 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5HI-vam&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5HI-vam&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5HI-vam&theme=react-dark"/>
 </p>
 
 ---
