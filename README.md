@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadabmanjar&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamrastogi&show_icons=true&theme=radical" height="180em" />
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrastogi&layout=compact&theme=radical" height="180em](https://github.com/Shiv-oose/FACULTY-PROFESSIONAL-DASHBOARD.git)" />
 </p>
 
