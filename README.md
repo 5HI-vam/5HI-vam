@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=5HI-vam&show_icons=true&theme=radical" height="180em" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=5HI-vam&layout=compact&theme=radical" height="180em](https://github.com/5HI-vam/FACULTY-PROFESSIONAL-DASHBOARD.git)" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=5HI-vam&layout=compact&theme=radical" height="180em](https://github.com/5HI-vam/FACULTY-PROFESSIONAL-DASHBOARD)" />
 </p>
 
 ---
